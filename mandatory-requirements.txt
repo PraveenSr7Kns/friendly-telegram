@@ -50,7 +50,7 @@ emoji
 google-api-python-client
 oauthclient
 googletrans
-avconv
+ffmpeg-normalize==0.5.1
 ffprobe
 avprobe
 humanize
