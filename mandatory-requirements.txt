@@ -49,3 +49,4 @@ ffmpeg
 emoji
 google-api-python-client
 oauthclient
+googletrans
