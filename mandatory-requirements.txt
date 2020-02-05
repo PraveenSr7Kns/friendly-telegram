@@ -38,3 +38,12 @@ coffeehouse
 asyncurban
 # Google Search
 search-engine-parser >= 0.5.3
+wikipedia
+google_images_download
+urbandict
+pySmartDL
+youtube_dl
+youtube2mp3
+youtube-search
+ffmpeg
+emoji
