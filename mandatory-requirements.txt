@@ -53,3 +53,4 @@ googletrans
 avconv
 ffprobe
 avprobe
+humanize
