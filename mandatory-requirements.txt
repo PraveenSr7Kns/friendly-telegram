@@ -47,3 +47,4 @@ youtube2mp3
 youtube-search
 ffmpeg
 emoji
+googleapiclient
