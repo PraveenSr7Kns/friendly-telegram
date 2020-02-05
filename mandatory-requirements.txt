@@ -52,5 +52,5 @@ oauthclient
 googletrans
 ffmpeg-normalize==0.5.1
 ffprobe
-avprobe
+humanize
 humanize
