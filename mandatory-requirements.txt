@@ -50,3 +50,6 @@ emoji
 google-api-python-client
 oauthclient
 googletrans
+avconv
+ffprobe
+avprobe
