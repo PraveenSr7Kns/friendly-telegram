@@ -54,3 +54,4 @@ ffmpeg-normalize==0.5.1
 ffprobe
 humanize
 telegraph
+PyPDF2
