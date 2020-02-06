@@ -5,7 +5,7 @@
   "keywords": ["telegram", "userbot"]
   
   
-  "api_id": {
+    "api_id": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "required": true
     },
