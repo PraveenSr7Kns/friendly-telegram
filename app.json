@@ -5,18 +5,18 @@
   "keywords": ["telegram", "userbot"]
 }
     "api_id": {
-      "description": "Your Telegram Username. ",
+      "description": "Get this value from my.telegram.org! Please do not steal. ",
       "required": false
     },
-    "apu_hash": {
+    "api_hash": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
     "authorization_strings": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "description": "Get the string session by pasting this(pastebin.com/MFgzkGh9)command in termux",
+      "value": "{"your_phone_number":"string_session"}"
     },
     "heroku_api_token":{
-      "description": "CHROME Binary PATH",
-      "value":"/app/.apt/usr/bin/google-chrome"
+      "description": "",
+      "value":""
     },
