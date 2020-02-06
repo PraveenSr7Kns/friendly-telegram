@@ -1,25 +1,25 @@
 {
-  "name": "Friendly Telegram",
-  "description": "An awesome Telegram userbot that's super easy to install and use - just click the deploy button below",
-  "logo": "https://friendly-telegram.github.io/favicon.ico",
-  "keywords": ["telegram", "userbot"],
-  "env"{
-    "api_id": {
-      "description": "Your Telegram Username. ",
-      "required": false
-    },
-    "api_hash": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
-    },
-    "authorization_strings": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
-    },
-    "heroku_api_token":{
-      "description": "CHROME Binary PATH",
-      "value":"/app/.apt/usr/bin/google-chrome"
-      }
-    },
+ "name": "Friendly Telegram",
+ "description": "An awesome Telegram userbot that's super easy to install and use - just click the deploy button below",
+ "logo": "https://friendly-telegram.github.io/favicon.ico",
+ "keywords": ["telegram", "userbot"],
+ "env"{
+   "api_id": {
+     "description": "Your Telegram Username. ",
+     "required": false
+   },
+   "api_hash": {
+     "description": "Get this value from my.telegram.org! Please do not steal",
+     "value": ""
+   },
+   "authorization_strings": {
+     "description": "Get this value from my.telegram.org! Please do not steal",
+     "value": ""
+   },
+   "heroku_api_token":{
+     "description": "CHROME Binary PATH",
+     "value":"/app/.apt/usr/bin/google-chrome"
+   }
+ },
 }    
 
