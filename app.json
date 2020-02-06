@@ -14,7 +14,7 @@
     },
     "authorization_strings": {
       "description": "Get the string session by pasting this(pastebin.com/MFgzkGh9)command in termux",
-      "value": "{"your_phone_number":"string_session"}"
+      "value": ""
     },
     "heroku_api_token":{
       "description": "",
