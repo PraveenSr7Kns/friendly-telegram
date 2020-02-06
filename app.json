@@ -4,6 +4,11 @@
   "logo": "https://friendly-telegram.github.io/favicon.ico",
   "keywords": ["telegram", "userbot"]
   
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable environment variables.",
+      "value": "ANYTHING"
+    },
   "api_id": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
