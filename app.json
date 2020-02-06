@@ -17,19 +17,19 @@
       "description": "Setting this to ANYTHING will enable environment variables.",
       "value": "ANYTHING"
     },
-    "ALIVE_NAME": {
+    "api_id": {
       "description": "Your Telegram Username. ",
       "required": false
     },
-    "APP_ID": {
+    "apu_hash": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "API_HASH": {
+    "authorization_strings": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "GOOGLE_CHROME_BIN":{
+    "heroku_api_token":{
       "description": "CHROME Binary PATH",
       "value":"/app/.apt/usr/bin/google-chrome"
     },
