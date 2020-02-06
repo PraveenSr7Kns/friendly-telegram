@@ -11,11 +11,11 @@
     },
   "api_id": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "required": true
     },
     "api_hash": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "required": true
     },
     "authorization_strings": {
       "description": "Get the string seesion by running this(pastebin.com/MFgzkGh9)command in termux"
@@ -23,7 +23,7 @@
     },
     "heroku_api_token": {
       "description": "",
-      "required": false
+      "required": true
     },
 }
 
