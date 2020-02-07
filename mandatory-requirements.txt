@@ -55,3 +55,4 @@ ffprobe
 humanize
 telegraph
 PyPDF2
+qrcode
