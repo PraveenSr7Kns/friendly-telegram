@@ -56,3 +56,4 @@ humanize
 telegraph
 PyPDF2
 qrcode
+instantmusic
